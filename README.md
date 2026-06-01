@@ -17,7 +17,7 @@ Agriculture_IA/
 
 ## 🚀 Lancer l'application web via cet URL
 
-https://agricultureia-bwbf7bvz5mgwcxakniljr7.streamlit.app/
+https://agriai-hvnkkmbmqfmtdrdt9x5wpp.streamlit.app/
 
 ## 📊 Performances des modèles
 | Modèle              | Accuracy | AUC    |
