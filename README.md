@@ -125,13 +125,12 @@ Sauvegarde .pkl (joblib)
 
 # 1. Cloner le dépôt
 git clone https://github.com/morialouange/Agri_IA.git
-cd Agriculture_IA
 
 # 2. Installer les dépendances
 pip install -r requirements.txt
 
 # 3. Lancer l'application
-streamlit run app.py
+python -m streamlit run app.py
 
 L'application s'ouvre automatiquement à l'adresse `http://localhost:8501`
 
