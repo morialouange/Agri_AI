@@ -194,14 +194,6 @@ Bujumbura Rural · Gitega · Ngozi · Muyinga · Kirundo · Kayanza · Muramvya 
 ## 🌱 Cultures supportées
 
 Maïs · Haricot · Manioc · Patate douce · Sorgho · Bananier
-👨‍💻 Auteur
-
-Projet réalisé à l'**Université Polytechnique de Gitega**  
-Département Génie Logiciel — Bac 4  
-TP Intelligence Artificielle Appliquée à l'Agriculture
 
 
 
-## 📄 Licence
-
-Ce projet est à usage académique. Tous droits réservés — Université Polytechnique de Gitega.
